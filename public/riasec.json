@@ -1,0 +1,23 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "question": "Dos grupos de Revistas a seguir, qual você tem maior preferência?",
+            "r_answer": "Quatro Rodas, AutoSport, Exame, Informática, Placar, Revista Cães e Gatos, Fluir",
+            "i_answer": "National Geographic, Super Interessante, Saúde, Ciência Hoje, História, Mundo Estranho",
+            "a_answer": "Vogue, Casa e Jardim, Arquitetura e Construção, Claudia, Claudia Cozinha, Premiere, Boa Forma, Elle, SET, Bravo",
+            "s_answer": "Pais e Filhos, Crescer, Caras, Psicologia Hoje, Nova Escola",
+            "e_answer": "Exame, Você SA, Época Negócios, HSM Management, Revista Amanhã",
+            "c_answer": "Reader’s Digest (Seleções), Bricolage & Decoração, Exame Informática, Revista Isto É, Guia da Cozinha, Revista Digital"
+        },
+        {
+            "question": "Dos grupos de séries e programas de televisão, qual você tem maior preferência?",
+            "r_answer": "Survivor, Globo Rural, Auto Esporte, Globo Esporte",
+            "i_answer": "Caçadores de Mitos; CSI, Dexter, O Universo segundo Stephen Hawking, Globo Ciência",
+            "a_answer": "South Park, Masterchef, What not to Wear, Project Runway, Glee, The Voice, Dança dos Famosos",
+            "s_answer": "Donas de Casa Desesperadas, Oprah, Friends, Os Simpsons, Family Guy, Modern Family, Grey’s Anatomy, Saia Justa, Sessão de Terapia, Caldeirão do Huck",
+            "e_answer": "Os Sopranos, Hell’s Kitchen, Shark’s tank, O Aprendiz",
+            "c_answer": "Mad Man, Law & Order, Santa Ajuda, Jornal Nacional, TV Senado"
+        }
+    ]
+}
